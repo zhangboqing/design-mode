@@ -4,7 +4,7 @@ import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
 /**
- * Created by Tom on 2018/3/7.
+ *
  */
 
 //Spring中的做法，就是用这种注册式单例

@@ -1,12 +1,12 @@
 package com.zbq.factory.factory2.simple;
 
-import com.gupaoedu.vip.pattern.factory.Mengniu;
-import com.gupaoedu.vip.pattern.factory.Milk;
-import com.gupaoedu.vip.pattern.factory.Telunsu;
-import com.gupaoedu.vip.pattern.factory.Yili;
+
+import com.zbq.factory.factory2.Mengniu;
+import com.zbq.factory.factory2.Milk;
+import com.zbq.factory.factory2.Telunsu;
+import com.zbq.factory.factory2.Yili;
 
 /**
- * Created by Tom on 2018/3/4.
  */
 public class SimpleFactory {
 

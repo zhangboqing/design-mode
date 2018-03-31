@@ -1,7 +1,6 @@
 package com.zbq.singleton.singleton2.lazy;
 
 /**
- * Created by Tom on 2018/3/7.
  */
 public class LazyTwo {
 

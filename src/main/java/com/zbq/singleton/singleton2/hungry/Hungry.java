@@ -1,7 +1,6 @@
 package com.zbq.singleton.singleton2.hungry;
 
 /**
- * Created by Tom on 2018/3/7.
  */
 
 //饿汉式单例

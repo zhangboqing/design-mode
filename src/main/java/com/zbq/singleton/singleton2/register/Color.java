@@ -1,7 +1,7 @@
 package com.zbq.singleton.singleton2.register;
 
 /**
- * Created by Tom on 2018/3/7.
+ *
  */
 
 //常量中去使用，常量不就是用来大家都能够共用吗？

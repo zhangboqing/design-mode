@@ -1,11 +1,12 @@
 package com.zbq.singleton.singleton2.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazyOne;
+
+import com.zbq.singleton.singleton2.lazy.LazyOne;
 
 import java.util.concurrent.CountDownLatch;
 
 /**
- * Created by Tom on 2018/3/7.
+ *
  */
 public class ThreadSafeTest {
 

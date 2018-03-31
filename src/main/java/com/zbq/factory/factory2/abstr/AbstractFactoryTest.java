@@ -1,7 +1,6 @@
 package com.zbq.factory.factory2.abstr;
 
 /**
- * Created by Tom on 2018/3/4.
  */
 public class AbstractFactoryTest {
 

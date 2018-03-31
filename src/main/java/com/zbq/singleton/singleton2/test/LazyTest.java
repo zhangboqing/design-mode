@@ -1,10 +1,10 @@
 package com.zbq.singleton.singleton2.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazyOne;
-import com.gupaoedu.vip.pattern.singleton.lazy.LazyTwo;
+
+import com.zbq.singleton.singleton2.lazy.LazyTwo;
 
 /**
- * Created by Tom on 2018/3/8.
+ *
  */
 public class LazyTest {
 

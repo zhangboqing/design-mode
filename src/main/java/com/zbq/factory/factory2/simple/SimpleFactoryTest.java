@@ -1,10 +1,7 @@
 package com.zbq.factory.factory2.simple;
 
-import com.gupaoedu.vip.pattern.factory.Telunsu;
-
 /**
  * 小作坊式的工厂模型
- * Created by Tom on 2018/3/4.
  */
 public class SimpleFactoryTest {
 

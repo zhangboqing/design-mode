@@ -3,7 +3,7 @@ package com.zbq.singleton.singleton2.seriable;
 import java.io.Serializable;
 
 /**
- * Created by Tom on 2018/3/7.
+ *
  */
 
 //反序列化时导致单例破坏

@@ -1,6 +1,7 @@
 package com.zbq.singleton.singleton2.test;
 
-import com.gupaoedu.vip.pattern.singleton.seriable.Seriable;
+
+import com.zbq.singleton.singleton2.seriable.Seriable;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;
@@ -8,7 +9,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 
 /**
- * Created by Tom on 2018/3/8.
+ *
  */
 public class SeriableTest {
     public static void main(String[] args) {

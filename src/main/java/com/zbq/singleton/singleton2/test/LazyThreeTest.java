@@ -5,7 +5,7 @@ import com.gupaoedu.vip.pattern.singleton.lazy.LazyThree;
 import java.lang.reflect.Constructor;
 
 /**
- * Created by Tom on 2018/3/8.
+ *
  */
 public class LazyThreeTest {
 

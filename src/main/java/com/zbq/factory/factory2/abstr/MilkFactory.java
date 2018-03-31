@@ -1,9 +1,9 @@
 package com.zbq.factory.factory2.abstr;
 
-import com.gupaoedu.vip.pattern.factory.*;
+
+import com.zbq.factory.factory2.*;
 
 /**
- * Created by Tom on 2018/3/4.
  */
 public class MilkFactory extends  AbstractFactory {
 

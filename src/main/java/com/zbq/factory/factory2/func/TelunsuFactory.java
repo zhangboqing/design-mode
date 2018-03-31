@@ -1,11 +1,11 @@
 package com.zbq.factory.factory2.func;
 
-import com.gupaoedu.vip.pattern.factory.Milk;
-import com.gupaoedu.vip.pattern.factory.Telunsu;
+
+import com.zbq.factory.factory2.Milk;
+import com.zbq.factory.factory2.Telunsu;
 
 /**
  * 事情变得越来越专业
- * Created by Tom on 2018/3/4.
  */
 public class TelunsuFactory implements Factory {
 
