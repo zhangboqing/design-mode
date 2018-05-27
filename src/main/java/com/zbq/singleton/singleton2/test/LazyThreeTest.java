@@ -1,6 +1,7 @@
 package com.zbq.singleton.singleton2.test;
 
-import com.gupaoedu.vip.pattern.singleton.lazy.LazyThree;
+
+import com.zbq.singleton.singleton2.lazy.LazyThree;
 
 import java.lang.reflect.Constructor;
 
