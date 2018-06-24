@@ -2,6 +2,7 @@ package com.zbq.bridge;
 
 /**
  * Refined Abstraction类：
+ * 扩充抽象类
  */
 public class Jeep extends Car {
   

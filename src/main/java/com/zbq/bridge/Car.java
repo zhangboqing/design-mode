@@ -2,6 +2,7 @@ package com.zbq.bridge;
 
 /**
  * Abstraction类：
+ * 抽象类
  */
 public abstract class Car {
   

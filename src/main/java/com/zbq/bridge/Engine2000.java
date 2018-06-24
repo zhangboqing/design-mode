@@ -2,6 +2,7 @@ package com.zbq.bridge;
 
 /**
  * ConcreteImplementor类：
+ * 具体实现类
  */
 public class Engine2000 implements Engine {
   

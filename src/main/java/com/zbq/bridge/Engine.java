@@ -2,6 +2,7 @@ package com.zbq.bridge;
 
 /**
  * Implementor类：
+ * 实现类接口
  */
 public interface Engine {
   
