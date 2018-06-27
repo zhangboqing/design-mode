@@ -1,6 +1,7 @@
 package com.zbq.component;
 
 /**
+ * Client
  * 测试类负责树状结构的建立，并可以通过递归方式遍历整个树。
  */
 public class Client {
