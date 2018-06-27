@@ -3,6 +3,7 @@ package com.zbq.component;
 import java.util.ArrayList;
 
 /**
+ * Composite
  * 树枝构件
  */
 public class Composite extends Component {  

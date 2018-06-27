@@ -1,6 +1,7 @@
 package com.zbq.component;
 
 /**
+ * Component
  * 抽象构件
  */
 public abstract class Component {
