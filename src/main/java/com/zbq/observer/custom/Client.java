@@ -1,6 +1,7 @@
 package com.zbq.observer.custom;
 
 /**
+ * client
  * 客户端类
  */
 public class Client {

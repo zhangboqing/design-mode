@@ -1,6 +1,8 @@
 package com.zbq.observer.custom;
 
 /**
+ * ConcreteObserver
+ * 具体观察者
  * 具体观察者角色类
  */
 public class ConcreteObserver implements Observer {

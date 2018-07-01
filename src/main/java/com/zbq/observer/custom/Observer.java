@@ -1,6 +1,8 @@
 package com.zbq.observer.custom;
 
 /**
+ * Observer
+ * 观察者
  * 抽象观察者角色类
  */
 public interface Observer {

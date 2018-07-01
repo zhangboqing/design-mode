@@ -4,6 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * Subject
+ * 目标
  * 抽象主题角色类
  */
 public abstract class Subject {
